@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cen414 Windows/1.0.0": {
+        "runtime": {
+          "Cen414 Windows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cen414 Windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

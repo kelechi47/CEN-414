@@ -1,0 +1,17 @@
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.csproj.AssemblyReference.cache
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414_Windows.Form1.resources
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.csproj.GenerateResource.cache
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.AssemblyInfoInputs.cache
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.AssemblyInfo.cs
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.csproj.CoreCompileInputs.cache
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\bin\Debug\net6.0-windows\Cen414 Windows.exe
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\bin\Debug\net6.0-windows\Cen414 Windows.deps.json
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\bin\Debug\net6.0-windows\Cen414 Windows.runtimeconfig.json
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\bin\Debug\net6.0-windows\Cen414 Windows.dll
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\bin\Debug\net6.0-windows\Cen414 Windows.pdb
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.dll
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\refint\Cen414 Windows.dll
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.pdb
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\Cen414 Windows.genruntimeconfig.cache
+C:\Users\Dmo\Documents\Visual Studio 2022\CEN414\Cen414 Windows\Cen414 Windows\obj\Debug\net6.0-windows\ref\Cen414 Windows.dll
